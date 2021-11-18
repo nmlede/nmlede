@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Nicolas. 
-- Currently learning Python and JS.
+- Currently learning Java and JS.
 - I'm interested in software development and cybersecurity. 
 - Tw: @nmled88.
 - In: @nmlede1988.
