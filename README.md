@@ -4,7 +4,7 @@
 - I'm interested in software development and cybersecurity. 
 - Tw: @nmled88.
 - In: @nmlede1988.
-- My dog thinks i am his slave. 
+- My dog thinks i am her slave. 
 <!--
 **nmlede/nmlede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
